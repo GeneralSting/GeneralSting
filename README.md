@@ -3,9 +3,9 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Pavo Skočibušić</h1>
-<h3 align="center">Junior Frontend Developer | Enthusiastic About Starting My Career as a React Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **finding my first job as a junior frontend developer (React preferably)**
+- 🔭 I’m currently working at [ORQA](https://orqafpv.com/)
 
 - 🌱 I’m currently learning: **expanding my frontend knowledge | studying backend development | I delve deeper into my understanding of programming languages by exploring books and other available documentation**
 
