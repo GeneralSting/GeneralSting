@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working at [ORQA](https://orqafpv.com/)
 
-- 🌱 I’m currently learning: **expanding my frontend knowledge | studying backend development | I delve deeper into my understanding of programming languages by exploring books and other available documentation**
+- 🌱 I’m currently **expanding my frontend knowledge | studying backend development | I delve deeper into my understanding of programming languages by exploring books and other available documentation**
 
 - 📫 How to reach me: **pavo.skocibusic@gmail.com**
-
-- ⚡ Fun fact: **growing trees and forestry is my favorite hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
