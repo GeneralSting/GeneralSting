@@ -21,8 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=generalsting&show_icons=true&locale=en&layout=compact" alt="generalsting" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=generalsting&show_icons=true&locale=en" alt="generalsting" /></p>
-
 <div align="center">
 <img src="https://media1.tenor.com/m/NiBD3Jj07AYAAAAC/monkey-laptop.gif" align="center" width="350" margin="16" />
 </div>  
